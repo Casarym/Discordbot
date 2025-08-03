@@ -98,4 +98,4 @@ async def join(ctx):
     except:
         await ctx.send("The bot is not connected to a voice channel.")
 # запускаем бота
-bot.run('MTAyNjE3MjAwNzM5OTgzMzY1MQ.GeZMQB.Vvyf_ZEOJ4wYNUhaVhKUB7rUlRDW2eXzknbDq4')
+bot.run('token')
